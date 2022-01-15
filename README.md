@@ -9,3 +9,7 @@ Mazes may be generated in the following way: for a given dimension dim construct
 Bonus: A Moving Target
 
 In this section, the target is no longer stationary, and can move between neighboring cells (up/down/left/right). Each time you perform a search, if you fail to find the target, the target will move to a neighboring cell (with uniform probability for each). However, all is not lost - every time you search a cell, you are now given two pieces of information instead of one: first, you are told whether or not the search was successful (same false negative rates as before); and if the search was unsuccessful, you are told whether or not the target is within Manhattan distance 5 of your current location.
+
+MORE INFO: CS440 - FireMaze.pdf
+
+FINAL REPORT: AI_1 (1).pdf
