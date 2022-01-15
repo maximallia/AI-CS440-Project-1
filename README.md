@@ -1,4 +1,4 @@
-# CS440-Intro-AI-Project-1
+# CS440-Intro-AI-Project-1-Maze-Runner
 
 Summary:
 
